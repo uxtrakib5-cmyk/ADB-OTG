@@ -1,4 +1,4 @@
-
+https://github.com/khaleel77/Net-Share-App/blob/master/TetherUSB.exe
 # ADB⚡OTG
 
 This project is a fork of the [flashbot](https://github.com/wuxudong/flashbot) developed by [wuxudong](https://github.com/wuxudong).
